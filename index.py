@@ -1,3 +1,3 @@
 print("Hello, World!")
-username = input("What is your name? ")
+username = input("What is your name?")
 print("Nice to meet you,", username)
