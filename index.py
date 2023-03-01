@@ -2,7 +2,7 @@ print("Hello, World!")
 username = input("What is your name?")
 print("Nice to meet you,", username)
 import random
-secretNumber = random.randint(1, 100)
+secretNumber = random.randint(1, 10)
 print("I'm thinking of a number between 1 and 10...")
 while True:
     guess = int(input("What is your guess? "))
